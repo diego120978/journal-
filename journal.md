@@ -7,3 +7,6 @@ sep 19 codecombat.com
 sep 20 codecombat.com
 sep 21 codecombat.com
 sep 22 codecombat.com 
+sep 25 codecombat.com
+sep 26 codecombat.com 
+sep 27 codecombat.com
